@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Brendan, I am an IT Solutions Architect working on developing practical solutions to complex technology problems.
+
 <!--
 **brendancarlson/brendancarlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
